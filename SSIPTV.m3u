@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF,GLOBO SP SD
+http://bldtv.vip:80/bert/102030/5117
+
+#EXTINF:-1,Band Sports
+https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/video.m3u8
+
+#EXTINF:-1,Paramount*
+https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/video.m3u8
+
+#EXTINF:-1,Comedy Central*
+https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
+
+#EXTINF:-1,PARAMOUNT 7
+https://ug1upc1hgb.singularcdn.net.br/PCBR_HD/video.m3u8
+
+#EXTINF:-1,NICK JR 7
+https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
+
+#EXTINF:-1,NICK 7
+https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/video.m3u8
+
+#EXTINF:-1,MTV 7
+https://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL 7
+https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
+
+#EXTINF:-1,ZOOMOO 7
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Globo RJ HD
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Globo SP
+http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Band
+http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Record HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Record
+http://2203.janjua.pw:8089/live/aovivotudo_record/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: SBT
+http://2203.janjua.pw:8089/live/aovivotudo_sbt/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Disney jr HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Disney channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Disney xd HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Combate
+http://2203.janjua.pw:8089/live/aovivotudo_combate/playlist.m3u8?id=89357&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN
+http://2203.janjua.pw:8089/live/aovivotudo_espnmais/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN 2
+http://2203.janjua.pw:8089/live/aovivotudo_espn/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN Brasil
+http://2203.janjua.pw:8089/live/aovivotudo_espnbr/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Sportv
+http://2203.janjua.pw:8089/live/aovivotudo_sportv/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Sportv 2
+http://2203.janjua.pw:8089/live/aovivotudo_sportv2/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Sportv 3
+http://2203.janjua.pw:8089/live/aovivotudo_sportv3/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 
+http://2201.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 2
+http://2d04.janjua.pw:8089/live/aovivotudo_premier2/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 3
+http://2d04.janjua.pw:8089/live/aovivotudo_premier3/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 4
+http://2d04.janjua.pw:8089/live/aovivotudo_premier4/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 5
+http://2d04.janjua.pw:8089/live/aovivotudo_premier5/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 6
+http://2d04.janjua.pw:8089/live/aovivotudo_premier6/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Fox sports
+http://2202.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89361&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Fox sports 2
+http://2202.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89361&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live:  Tnt
+http://5.79.65.36:8089/live/aovivotudo_tnt/playlist.m3u8?id=89383&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Viva
+http://2203.janjua.pw:8089/live/aovivotudo_viva/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Bein sports 1
+http://2203.janjua.pw:8089/live/beinsportskral_1/playlist.m3u8?id=102293&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+
+#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Filmes 24h
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
