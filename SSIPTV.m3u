@@ -32,7 +32,7 @@ https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
 title="Infantil",ZOOMOO
 https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
 
-***********************************************************************************************************************************************************************
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Aberto",Globo RJ FHD
@@ -105,7 +105,7 @@ http://2203.janjua.pw:8089/live/aovivotudo_viva/playlist.m3u8?id=89368&pk=af4e98
 #EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Séries",Filmes 24h
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
 
-***********************************************************************************************************************************************************************
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
@@ -133,3 +133,6 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Record_Logo_2011.png" group-title="Aberto",Record HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1,TC ACTION
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecineaction_be057d4c_7e18b24d7abfd356252dee7a98e298c68ae481bd/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTc3LjY3LjIyMS41MCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjM7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTQ2IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTI3MTQxOTE7fQ%3D%3D
