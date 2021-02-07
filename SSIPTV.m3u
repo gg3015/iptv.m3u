@@ -136,5 +136,6 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-1,TC ACTION
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecineaction_be057d4c_7e18b24d7abfd356252dee7a98e298c68ae481bd/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTc3LjY3LjIyMS41MCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjM7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTQ2IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTI3MTQxOTE7fQ%3D%3D
-#EXTINF:-1,Sportv1
-https://cdn.esporteone.com/SPORTVSD/video.m3u8|referer=https://esporteone.com/player/jogos.php?canal=SPORTVSD
+
+#EXTINF:-1,teste
+https://cdn.esporteone.com/SPORTVSD/video.m3u8
