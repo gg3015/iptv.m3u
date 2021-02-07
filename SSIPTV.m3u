@@ -1,127 +1,135 @@
 #EXTM3U
 
-#EXTINF,GLOBO SP SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Aberto",GLOBO SP SD
 http://bldtv.vip:80/bert/102030/5117
 
-#EXTINF:-1,Band Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports
 https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/video.m3u8
 
-#EXTINF:-1,Paramount*
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png" group-title="Filmes e Séries",Paramount*
 https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/video.m3u8
 
-#EXTINF:-1,Comedy Central*
+#EXTINF:-1 tvg-logo="https://conandaily.files.wordpress.com/2020/01/comedy-central-logo.png" group-title="Filmes e Séries",Comedy Central*
 https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
 
-#EXTINF:-1,PARAMOUNT 7
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png" group-title="Filmes e Séries",PARAMOUNT 7
 https://ug1upc1hgb.singularcdn.net.br/PCBR_HD/video.m3u8
 
-#EXTINF:-1,NICK JR 7
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png" group-title="Infantil",NICK JR 7
 https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
 
-#EXTINF:-1,NICK 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Infantil",NICK 7
 https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/video.m3u8
 
-#EXTINF:-1,MTV 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-
+title="Variedades",MTV 7
 https://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
 
-#EXTINF:-1,COMEDY CENTRAL 7
+#EXTINF:-1 tvg-logo="https://conandaily.files.wordpress.com/2020/01/comedy-central-logo.png" group-title="Filmes e Séries",COMEDY CENTRAL 7
 https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
 
-#EXTINF:-1,ZOOMOO 7
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KB5eJfiaq84/Xtg7dyc38SI/AAAAAAABpBM/AIqrIEvJ3p0K6rioO2m6LEM3B7u4fId3wCLcBGAsYHQ/s640/61041410.png" group-
+title="Infantil",ZOOMOO
 https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Globo RJ HD
+***********************************************************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Aberto",Globo RJ FHD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Globo SP
-http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Aberto",Globo SP
+http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Band
-http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/3-37932_band-logo-bandeirantes-simbolo-da-band.png" group-title="Aberto",Band
+http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Record HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Record_Logo_2011.png" group-title="Aberto",Record
+http://2203.janjua.pw:8089/live/aovivotudo_record/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Record
-http://2203.janjua.pw:8089/live/aovivotudo_record/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="Aberto",SBT
+http://2203.janjua.pw:8089/live/aovivotudo_sbt/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: SBT
-http://2203.janjua.pw:8089/live/aovivotudo_sbt/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-uH2cYQSSOv0/WvYqbL-2jmI/AAAAAAABHdI/XBwobCd7jewPKIO4aHK8gJdJjGRUA300wCLcBGAs/s1600/Comabte.png" group-
+title="Esportes",Combate
+http://2203.janjua.pw:8089/live/aovivotudo_combate/playlist.m3u8?id=89357&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Disney jr HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Esportes",ESPN 2
+http://2203.janjua.pw:8089/live/aovivotudo_espn/playlist.m3u8?id=89358&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Disney channel HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Esportes",ESPN+
+http://2203.janjua.pw:8089/live/aovivotudo_espnmais/playlist.m3u8?id=89360&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Disney xd HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
+http://2203.janjua.pw:8089/live/aovivotudo_espnbr/playlist.m3u8?id=89359&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Combate
-http://2203.janjua.pw:8089/live/aovivotudo_combate/playlist.m3u8?id=89357&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/08/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",Sportv
+http://2203.janjua.pw:8089/live/aovivotudo_sportv/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN
-http://2203.janjua.pw:8089/live/aovivotudo_espnmais/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/08/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",Sportv 2
+http://2203.janjua.pw:8089/live/aovivotudo_sportv2/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN 2
-http://2203.janjua.pw:8089/live/aovivotudo_espn/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/08/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",Sportv 3
+http://2203.janjua.pw:8089/live/aovivotudo_sportv3/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN Brasil
-http://2203.janjua.pw:8089/live/aovivotudo_espnbr/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="Esportes",Premiere Clube
+http://2203.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN Brasil HD
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Esportes",Premiere 2
+http://2203.janjua.pw:8089/live/aovivotudo_premier2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Esportes",Premiere 3
+http://2203.janjua.pw:8089/live/aovivotudo_premier3/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Esportes",Premiere 4
+http://2203.janjua.pw:8089/live/aovivotudo_premier4/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Esportes",Premiere 5
+http://2203.janjua.pw:8089/live/aovivotudo_premier5/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Esportes",Premiere 6
+http://2203.janjua.pw:8089/live/aovivotudo_premier6/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Esportes",Fox sports
+http://2203.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Esportes",Fox sports 2
+http://2203.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes e Séries",Tnt
+http://2203.janjua.pw:8089/live/aovivotudo_tnt/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/Canal_viva_logo_.png" group-title="Variedades",Viva
+http://2203.janjua.pw:8089/live/aovivotudo_viva/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
+
+#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Séries",Filmes 24h
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
+
+***********************************************************************************************************************************************************************
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-extra_m.png" group-title="Esportes",ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Esportes",ESPN 2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: ESPN extra HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-
+title="Esportes",ESPN Extra HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Sportv
-http://2203.janjua.pw:8089/live/aovivotudo_sportv/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-
+title="Infantil",Disney Jr HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Sportv 2
-http://2203.janjua.pw:8089/live/aovivotudo_sportv2/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-
+title="Infantil",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Sportv 3
-http://2203.janjua.pw:8089/live/aovivotudo_sportv3/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyxd.png" group-title="Infantil",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 
-http://2201.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 2
-http://2d04.janjua.pw:8089/live/aovivotudo_premier2/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 3
-http://2d04.janjua.pw:8089/live/aovivotudo_premier3/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 4
-http://2d04.janjua.pw:8089/live/aovivotudo_premier4/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 5
-http://2d04.janjua.pw:8089/live/aovivotudo_premier5/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Premiere 6
-http://2d04.janjua.pw:8089/live/aovivotudo_premier6/playlist.m3u8?id=89926&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Fox sports
-http://2202.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89361&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Fox sports 2
-http://2202.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89361&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live:  Tnt
-http://5.79.65.36:8089/live/aovivotudo_tnt/playlist.m3u8?id=89383&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Viva
-http://2203.janjua.pw:8089/live/aovivotudo_viva/playlist.m3u8?id=89363&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Bein sports 1
-http://2203.janjua.pw:8089/live/beinsportskral_1/playlist.m3u8?id=102293&pk=02b51d334f199792c0aae596ff10ad28b2799aac21b8c0599a58ab337e97e3e2
-
-#EXTINF:-1 tvg-id="" tvg-name="Live: Live HD" tvg-logo="" group-title="Live",Live: Filmes 24h
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Record_Logo_2011.png" group-title="Aberto",Record HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
