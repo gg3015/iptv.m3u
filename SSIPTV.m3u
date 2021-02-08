@@ -1,135 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1,GLOBO SP SD
-http://bldtv.vip:80/bert/102030/5117
-
-#EXTINF:-1,Band Sports
-https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/video.m3u8
-
-#EXTINF:-1,Paramount*
-https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/video.m3u8
-
-#EXTINF:-1,Comedy Central*
-https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
-
-#EXTINF:-1,PARAMOUNT 7
-https://ug1upc1hgb.singularcdn.net.br/PCBR_HD/video.m3u8
-
-#EXTINF:-1,NICK JR 7
-https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
-
-#EXTINF:-1,NICK 7
-https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/video.m3u8
-
-#EXTINF:-1,MTV 7
-https://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
-
-#EXTINF:-1,COMEDY CENTRAL 7
-https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/video.m3u8
-
-#EXTINF:-1,ZOOMOO
-https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
-
-
-
-
-#EXTINF:-1,Globo RJ FHD
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-#EXTINF:-1,Globo SP
-http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Band
-http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Record
-http://2203.janjua.pw:8089/live/aovivotudo_record/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,SBT
-http://2203.janjua.pw:8089/live/aovivotudo_sbt/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Combate
-http://2203.janjua.pw:8089/live/aovivotudo_combate/playlist.m3u8?id=89357&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,ESPN 2
-http://2203.janjua.pw:8089/live/aovivotudo_espn/playlist.m3u8?id=89358&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,ESPN+
-http://2203.janjua.pw:8089/live/aovivotudo_espnmais/playlist.m3u8?id=89360&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,ESPN Brasil
-http://2203.janjua.pw:8089/live/aovivotudo_espnbr/playlist.m3u8?id=89359&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Sportv
-http://2203.janjua.pw:8089/live/aovivotudo_sportv/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Sportv 2
-http://2203.janjua.pw:8089/live/aovivotudo_sportv2/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Sportv 3
-http://2203.janjua.pw:8089/live/aovivotudo_sportv3/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Premiere Clube
-http://2203.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Premiere 2
-http://2203.janjua.pw:8089/live/aovivotudo_premier2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Premiere 3
-http://2203.janjua.pw:8089/live/aovivotudo_premier3/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Premiere 4
-http://2203.janjua.pw:8089/live/aovivotudo_premier4/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Premiere 5
-http://2203.janjua.pw:8089/live/aovivotudo_premier5/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Premiere 6
-http://2203.janjua.pw:8089/live/aovivotudo_premier6/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Fox sports
-http://2203.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Fox sports 2
-http://2203.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Tnt
-http://2203.janjua.pw:8089/live/aovivotudo_tnt/playlist.m3u8?id=89383&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Viva
-http://2203.janjua.pw:8089/live/aovivotudo_viva/playlist.m3u8?id=89368&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:-1,Filmes 24h
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
-
-
-
-#EXTINF:-1,ESPN Brasil HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
-
-#EXTINF:-1,ESPN HD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-
-#EXTINF:-1,ESPN 2 HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
-
-#EXTINF:-1,ESPN Extra HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-
-#EXTINF:-1,Disney Jr HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-
-#EXTINF:-1,Disney Channel HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-
-#EXTINF:-1,Disney XD HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
-
-#EXTINF:-1,Record HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
+#EXTINF:-1,AXN
+http://cdnz.videezy.gq/live/axn/playlist.m3u8
+#EXTINF:-1,TC PREMIUM
+http://cdnz.videezy.gq/live/telecinepremium/playlist.m3u8
+#EXTINF:-1,TC PIPOCA
+http://cdnz.videezy.gq/live/telecinepipoca/playlist.m3u8
 #EXTINF:-1,TC ACTION
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecineaction_be057d4c_7e18b24d7abfd356252dee7a98e298c68ae481bd/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTc3LjY3LjIyMS41MCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjM7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTQ2IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTI3MTQxOTE7fQ%3D%3D
+http://cdnz.videezy.gq/live/telecineaction/playlist.m3u8
+#EXTINF:-1,MEGAPIX
+http://cdnz.videezy.gq/live/megapix/playlist.m3u8
+#EXTINF:-1,FOX
+http://cdnz.videezy.gq/live/fox/playlist.m3u8
+#EXTINF:-1,FOX SPORTS
+http://cdnz.videezy.gq/live/foxsports/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://cdnz.videezy.gq/live/foxsports2/playlist.m3u8
+#EXTINF:-1,PFC
+http://cdnz.videezy.gq/live/premiereclubes/playlist.m3u8
+#EXTINF:-1,PFC 2
+http://cdnz.videezy.gq/live/premiere2/playlist.m3u8
+#EXTINF:-1,SPORTV
+http://cdnz.videezy.gq/live/sportv/playlist.m3u8
+#EXTINF:-1,SPORTV 2
+http://cdnz.videezy.gq/live/sportv2/playlist.m3u8
+#EXTINF:-1,SPORTV 3
+http://cdnz.videezy.gq/live/sportv3/playlist.m3u8
+#EXTINF:-1,TNT
+http://cdnz.videezy.gq/live/tnt/playlist.m3u8
 
-#EXTINF:-1,teste
-http://105m3u8.epg-kc.com/v3/youshi/m4_CI91VUNQ4wsiRtSvmhY8adfr_480p.m3u8?session_id=2VV1yhAIDDNe&app_ver=10101&auth_id=35553326_com.global.brasiltvweb&client_ip=177.67.221.50&user_id=35553326&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=0714f607&expired=1612733926&token=D474CE228A5A567082F23BE3C5F2E4F1&media_code=m4_CI91VUNQ4wsiRtSvmhY8adfr_480p
+#EXTINF:-1,Record SP SD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:-1,Rba Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w374841617.m3u8
+#EXTINF:-1,SBT Interior
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w1483142326.m3u8
+#EXTINF:-1,Band SP
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w339931578.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+#EXTINF:-1,TV Tem
+https://wbeo5ubp2y.singularcdn.net.br/TV_TEM_HD_PFZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Band Sports
+https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Band Sports*
+https://ug1upc1hgb.singularcdn.net.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Band News
+https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Band News*
+https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick
+https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick jr
+https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1,Paramount
+https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Paramount*
+https://ug1upc1hgb.singularcdn.net.br/PCBR_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Comedy central
+https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Comedy central*
+https://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8
