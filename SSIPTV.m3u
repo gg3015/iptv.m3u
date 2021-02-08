@@ -1,5 +1,7 @@
 #EXTM3U
-
+#EXTINF:0,globo
+#EXTMXPlayerOPT:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/2_.m3u8
 #EXTINF:0,globo
 #EXTVLCOPT:http-user-agent=VIP002
 http://199.127.62.234:2095/streams/2_.m3u8
