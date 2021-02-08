@@ -1,5 +1,44 @@
 #EXTM3U
 
+#EXTINF:0,globo
+#EXTVLCOPT:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/2_.m3u8
+
+#EXTINF:0,Pro 1
+#EXTSSIPTVOPT:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/2_.m3u8
+
+#EXTINF:0,Pro 2
+#EXTss-iptv:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/2_.m3u8
+
+#EXTINF:0,Pro 3
+#EXTss-iptvOPT:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/5_.m3u8
+
+#EXTINF:0,Pro 4
+#EXTSSIPTV:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/6_.m3u8
+
+#EXTINF:0,Pro 5
+#EXTVLCOPT:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/7_.m3u8
+
+#EXTINF:0,Pro 6
+#EXTVLCOPT:http-user-agent=VIP002
+http://199.127.62.234:2095/streams/8_.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,AXN
 http://cdnz.videezy.gq/live/axn/playlist.m3u8
 #EXTINF:-1,TC PREMIUM
