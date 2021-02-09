@@ -13,7 +13,7 @@ globo-rj/playlist.m3u8
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Web",Filmes 24h
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/filmes-online-png-2.png" group-title="Leoricart Canais Web",Filmes 24h
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
 
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Espn Brasil
@@ -31,7 +31,7 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Band Sports
 https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/video.m3u8
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Disney JR
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Disney Channel
@@ -64,13 +64,13 @@ https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v1a1a2l2/mono.m3u8
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",RBA Band
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="http://gruporba.com.br/img/logo.png" group-title="Leoricart Canais Aberto",RBA Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Religioso",TV Evangelizar
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/200px-TV_Evangelizar_logo_2019.png" group-title="Leoricart Canais Religioso",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Religioso",Canção Nova
@@ -85,7 +85,7 @@ https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/in
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Religioso",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Religioso",TV Pai Eterno
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="https://auditecgo.com.br/wp-content/uploads/2020/02/tv-pai-eterno.png" group-title="Leoricart Canais Religioso",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Variedades",MTV
@@ -136,25 +136,25 @@ http://199.127.62.234:2095/streams/57_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere
 http://199.127.62.234:2095/streams/61_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 2
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 2
 http://199.127.62.234:2095/streams/63_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 3
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 3
 http://199.127.62.234:2095/streams/64_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 4
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 4
 http://199.127.62.234:2095/streams/65_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 5
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 5
 http://199.127.62.234:2095/streams/66_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 6
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 6
 http://199.127.62.234:2095/streams/67_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 7
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 7
 http://199.127.62.234:2095/streams/68_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 8
 http://199.127.62.234:2095/streams/69_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Sportv
@@ -178,8 +178,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output3.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Animal Planet
 http://199.127.62.234:2095/streams/98_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Discovery Home & 
-Health
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Leoricart Canais Documetario",Discovery Home & Health
 http://199.127.62.234:2095/streams/100_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Discovery Channel
@@ -287,7 +286,7 @@ http://199.127.62.234:2095/streams/185_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo 2
 http://199.127.62.234:2095/streams/187_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Mais
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="Leoricart Canais Filmes e Series",Hbo+
 http://199.127.62.234:2095/streams/189_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Signature
@@ -296,7 +295,7 @@ http://199.127.62.234:2095/streams/191_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Family
 http://199.127.62.234:2095/streams/193_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Streme
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="Leoricart Canais Filmes e Series",Hbo Streme
 http://199.127.62.234:2095/streams/7_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Mundi
@@ -344,7 +343,7 @@ http://199.127.62.234:2095/streams/215_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Sextreme
 http://199.127.62.234:2095/streams/216_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Sexhot
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="http://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png" group-title="Leoricart Canais Adulto",Sexhot
 http://199.127.62.234:2095/streams/217_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Venus
