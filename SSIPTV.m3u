@@ -3,6 +3,15 @@
 #EXTINF:0 user-agent="VIP002" , Stream
 http://199.127.62.234:2095/streams/2_.m3u8
 
+
+#EXTINF:0 user-agent="GoPlayer" , Stream24
+http://gamexit.in:8080/live/3pWsqMIako/Dg4u46JNPW/2.m3u8
+
+
+
+
+
+
 #EXTINF:0,Canal America
 http://199.127.62.234:2095/streams/2_.m3u8|User-Agent=VIP002
 
