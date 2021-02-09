@@ -10,6 +10,9 @@ https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeUmgqdQDgI9-1QiCQ
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-
 globo-rj/playlist.m3u8
 
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="Leoricart Canais Aberto",TV TEM
+https://wbeo5ubp2y.singularcdn.net.br/TV_TEM_HD_PFZ/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
