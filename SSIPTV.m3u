@@ -1,119 +1,259 @@
 #EXTM3U
 
-#EXTINF:0 user-agent="VIP002" , Stream
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Globo
 http://199.127.62.234:2095/streams/2_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Record
+http://199.127.62.234:2095/streams/29_.m3u8
 
-#EXTINF:0 user-agent="GoPlayer" , Stream24
-http://gamexit.in:8080/live/3pWsqMIako/Dg4u46JNPW/2.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Sbt
+http://199.127.62.234:2095/streams/1_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Band
+http://199.127.62.234:2095/streams/13_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Canal Brasil
+http://199.127.62.234:2095/streams/15_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",TV Brasil
+http://199.127.62.234:2095/streams/39_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Band Sports
+http://199.127.62.234:2095/streams/46_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Combate
+http://199.127.62.234:2095/streams/48_.m3u8
 
-#EXTINF:0,Canal America
-http://199.127.62.234:2095/streams/2_.m3u8|User-Agent=VIP002
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Espn Extra
+http://199.127.62.234:2095/streams/50_.m3u8
 
-#EXTINF:0,globo
-#EXTMXPlayerOPT:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/2_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Espn
+http://199.127.62.234:2095/streams/51_.m3u8
 
-#EXTINF:0,globo
-#EXTVLCOPT:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/2_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Espn Brasil
+http://199.127.62.234:2095/streams/53_.m3u8
 
-#EXTINF:0,Pro 1
-#EXTSSIPTVOPT:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/2_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Fox Sports
+http://199.127.62.234:2095/streams/55_.m3u8
 
-#EXTINF:0,Pro 2
-#EXTss-iptv:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/2_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Fox Sports 2
+http://199.127.62.234:2095/streams/57_.m3u8
 
-#EXTINF:0,Pro 3
-#EXTss-iptvOPT:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/5_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere Clubes
+http://199.127.62.234:2095/streams/61_.m3u8
 
-#EXTINF:0,Pro 4
-#EXTSSIPTV:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/6_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 2
+http://199.127.62.234:2095/streams/63_.m3u8
 
-#EXTINF:0,Pro 5
-#EXTVLCOPT:http-user-agent=VIP002
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 3
+http://199.127.62.234:2095/streams/64_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 4
+http://199.127.62.234:2095/streams/65_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 5
+http://199.127.62.234:2095/streams/66_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 6
+http://199.127.62.234:2095/streams/67_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 7
+http://199.127.62.234:2095/streams/68_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 8
+http://199.127.62.234:2095/streams/69_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere
+http://199.127.62.234:2095/streams/61_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Sportv
+http://199.127.62.234:2095/streams/70_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Sportv 2
+http://199.127.62.234:2095/streams/72_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Sportv 3
+http://199.127.62.234:2095/streams/74_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Noticias",Globo News
+http://199.127.62.234:2095/streams/84_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Noticias",Band News
+http://199.127.62.234:2095/streams/85_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Noticias",Cnn Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output3.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Animal Planet
+http://199.127.62.234:2095/streams/98_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Discovery Home & Health
+http://199.127.62.234:2095/streams/100_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Discovery Channel
+http://199.127.62.234:2095/streams/102_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",History
+http://199.127.62.234:2095/streams/114_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Nat Geo Wild
+http://199.127.62.234:2095/streams/119_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Baby TV
+http://199.127.62.234:2095/streams/126_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Boomerang
+http://199.127.62.234:2095/streams/127_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Cartoon Network
+http://199.127.62.234:2095/streams/128_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Disney Channel
+http://199.127.62.234:2095/streams/129_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Disney Junior
+http://199.127.62.234:2095/streams/130_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Disney XD
+http://199.127.62.234:2095/streams/131_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Gloob
+http://199.127.62.234:2095/streams/132_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Nat Geo Kids
+http://199.127.62.234:2095/streams/134_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Nick
+http://199.127.62.234:2095/streams/135_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",TV Rá-Tim-Bum
+http://199.127.62.234:2095/streams/136_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Zoomoo
+http://199.127.62.234:2095/streams/137_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Infantil",Discovery Kids
+http://199.127.62.234:2095/streams/138_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Comedy Central
+http://199.127.62.234:2095/streams/148_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Axn
+http://199.127.62.234:2095/streams/181_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",A&E
+http://199.127.62.234:2095/streams/157_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Amc
+http://199.127.62.234:2095/streams/3_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Amc*
+http://199.127.62.234:2095/streams/158_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Sony
+http://199.127.62.234:2095/streams/159_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Fox
+http://199.127.62.234:2095/streams/161_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Fox Life
+http://199.127.62.234:2095/streams/163_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Fox Premium
+http://199.127.62.234:2095/streams/165_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Fox Premium 2
+http://199.127.62.234:2095/streams/167_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Life Time
+http://199.127.62.234:2095/streams/168_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Megapix
+http://199.127.62.234:2095/streams/171_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Paramount
+http://199.127.62.234:2095/streams/172_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Studio Universal
+http://199.127.62.234:2095/streams/173_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Tbs
+http://199.127.62.234:2095/streams/175_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Universal
+http://199.127.62.234:2095/streams/177_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Warner TV
+http://199.127.62.234:2095/streams/179_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Pop
+http://199.127.62.234:2095/streams/183_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo
+http://199.127.62.234:2095/streams/185_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo 2
+http://199.127.62.234:2095/streams/187_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo+
+http://199.127.62.234:2095/streams/189_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Signature
+http://199.127.62.234:2095/streams/191_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Family
+http://199.127.62.234:2095/streams/193_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Streme
 http://199.127.62.234:2095/streams/7_.m3u8
 
-#EXTINF:0,Pro 6
-#EXTVLCOPT:http-user-agent=VIP002
-http://199.127.62.234:2095/streams/8_.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Hbo Mundi
+http://199.127.62.234:2095/streams/195_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Space
+http://199.127.62.234:2095/streams/200_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Tnt
+http://199.127.62.234:2095/streams/5_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Tnt*
+http://199.127.62.234:2095/streams/202_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",Tnt Series
+http://199.127.62.234:2095/streams/6_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",TC Cult
+http://199.127.62.234:2095/streams/203_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",TC Fun
+http://199.127.62.234:2095/streams/205_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",TC Pipoca
+http://199.127.62.234:2095/streams/207_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",TC Premium
+http://199.127.62.234:2095/streams/209_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",TC Touch
+http://199.127.62.234:2095/streams/211_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Filmes e Series",TC Action
+http://199.127.62.234:2095/streams/213_.m3u8
 
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Variedades",MTV Brasil
+http://199.127.62.234:2095/streams/141_.m3u8
 
-#EXTINF:-1,AXN
-http://cdnz.videezy.gq/live/axn/playlist.m3u8
-#EXTINF:-1,TC PREMIUM
-http://cdnz.videezy.gq/live/telecinepremium/playlist.m3u8
-#EXTINF:-1,TC PIPOCA
-http://cdnz.videezy.gq/live/telecinepipoca/playlist.m3u8
-#EXTINF:-1,TC ACTION
-http://cdnz.videezy.gq/live/telecineaction/playlist.m3u8
-#EXTINF:-1,MEGAPIX
-http://cdnz.videezy.gq/live/megapix/playlist.m3u8
-#EXTINF:-1,FOX
-http://cdnz.videezy.gq/live/fox/playlist.m3u8
-#EXTINF:-1,FOX SPORTS
-http://cdnz.videezy.gq/live/foxsports/playlist.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://cdnz.videezy.gq/live/foxsports2/playlist.m3u8
-#EXTINF:-1,PFC
-http://cdnz.videezy.gq/live/premiereclubes/playlist.m3u8
-#EXTINF:-1,PFC 2
-http://cdnz.videezy.gq/live/premiere2/playlist.m3u8
-#EXTINF:-1,SPORTV
-http://cdnz.videezy.gq/live/sportv/playlist.m3u8
-#EXTINF:-1,SPORTV 2
-http://cdnz.videezy.gq/live/sportv2/playlist.m3u8
-#EXTINF:-1,SPORTV 3
-http://cdnz.videezy.gq/live/sportv3/playlist.m3u8
-#EXTINF:-1,TNT
-http://cdnz.videezy.gq/live/tnt/playlist.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Variedades",Viva
+http://199.127.62.234:2095/streams/153_.m3u8
 
-#EXTINF:-1,Record SP SD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
-#EXTINF:-1,Rba Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w374841617.m3u8
-#EXTINF:-1,SBT Interior
-https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w1483142326.m3u8
-#EXTINF:-1,Band SP
-https://evpp.mm.uol.com.br/geob_band/band/chunklist_w339931578.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
-#EXTINF:-1,TV Tem
-https://wbeo5ubp2y.singularcdn.net.br/TV_TEM_HD_PFZ/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Band Sports
-https://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Band Sports*
-https://ug1upc1hgb.singularcdn.net.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Band News
-https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Band News*
-https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nick
-https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nick jr
-https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1,Paramount
-https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Paramount*
-https://ug1upc1hgb.singularcdn.net.br/PCBR_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Comedy central
-https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Comedy central*
-https://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Playboy
+http://199.127.62.234:2095/streams/215_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adultos",Sextreme
+http://199.127.62.234:2095/streams/216_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Sexhot
+http://199.127.62.234:2095/streams/217_.m3u8
+
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Venus
+http://199.127.62.234:2095/streams/218_.m3u8
