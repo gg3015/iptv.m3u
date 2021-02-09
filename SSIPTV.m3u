@@ -133,7 +133,7 @@ http://199.127.62.234:2095/streams/55_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Fox Sports 2
 http://199.127.62.234:2095/streams/57_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere Clubes
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere
 http://199.127.62.234:2095/streams/61_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 2
@@ -157,9 +157,6 @@ http://199.127.62.234:2095/streams/68_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere 8
 http://199.127.62.234:2095/streams/69_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Premiere
-http://199.127.62.234:2095/streams/61_.m3u8
-
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Sportv
 http://199.127.62.234:2095/streams/70_.m3u8
 
@@ -182,7 +179,6 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output3.m3u8
 http://199.127.62.234:2095/streams/98_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Documetario",Discovery Home & 
-
 Health
 http://199.127.62.234:2095/streams/100_.m3u8
 
@@ -345,7 +341,7 @@ http://199.127.62.234:2095/streams/153_.m3u8
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Playboy
 http://199.127.62.234:2095/streams/215_.m3u8
 
-#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adultos",Sextreme
+#EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Sextreme
 http://199.127.62.234:2095/streams/216_.m3u8
 
 #EXTINF:0 user-agent="VIP002"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Adulto",Sexhot
