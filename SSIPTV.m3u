@@ -1,14 +1,13 @@
 #EXTM3U
 
-#EXTINF:0 user-agent="leoricart"tvg-name="Leoricart" tvg-logo="" group-title="creditos",@by-Leoricart
+#EXTINF:0 user-agent="leoricart"tvg-name="Leoricart" tvg-logo="https://static.dicionariodesimbolos.com.br/upload/a5/cd/descubra-o-significado-do-escudo-da-fe-com-imagens-9_xl.png" group-title="creditos",@by-Leoricart
 https://
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",TV Diário CE
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario-hd_m.png" group-title="Leoricart Canais Aberto",TV Diário CE
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeUmgqdQDgI9-1QiCQcknCI)/dm/3/x7txn7q/s/live-2.m3u8
 
-#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Globo FHD
+#EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Leoricart Canais Aberto",Globo FHD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-
-
 globo-rj/playlist.m3u8
 
 #EXTINF:0 user-agent="SSIPTV"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Aberto",Record
